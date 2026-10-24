@@ -24,8 +24,6 @@ This portfolio provides a professional overview of my front-end development skil
 - CSS3
 - JavaScript
 - Bootstrap
-- Tailwind CSS
-- React
 - Git & GitHub
 
 *Note: Keep only the technologies actually used in this specific project.*
